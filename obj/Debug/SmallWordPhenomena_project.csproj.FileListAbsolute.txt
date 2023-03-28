@@ -1,0 +1,8 @@
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\bin\Debug\SmallWordPhenomena_project.exe.config
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\bin\Debug\SmallWordPhenomena_project.exe
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\bin\Debug\SmallWordPhenomena_project.pdb
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\obj\Debug\SmallWordPhenomena_project.csproj.AssemblyReference.cache
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\obj\Debug\SmallWordPhenomena_project.csproj.SuggestedBindingRedirects.cache
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\obj\Debug\SmallWordPhenomena_project.csproj.CoreCompileInputs.cache
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\obj\Debug\SmallWordPhenomena_project.exe
+D:\fcis\FCIS\Algorithm\Project\SmallWordPhenomena_project\obj\Debug\SmallWordPhenomena_project.pdb
